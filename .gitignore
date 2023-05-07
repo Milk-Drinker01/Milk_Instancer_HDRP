@@ -9,6 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+Assets/AmplifyShaderEditor*
+Assets/Test*
+Assets/HDRPDefaultResources*
+Assets/Milk_Instancer01*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
